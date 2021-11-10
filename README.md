@@ -1,4 +1,4 @@
-<h1 style="text-align:center"> ### Hello, I'm Marcelo Ribas 👋 </h1>
+<h1 style="text-align:center">Hello, I'm Marcelo Ribas 👋 </h1>
 
 <div align="center">
   <a href="https://github.com/marceloribasDev">
