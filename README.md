@@ -1,9 +1,5 @@
 ### Hello, I'm Marcelo Ribas 👋
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning Typescript
-- 😄 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/marceloribasDev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marceloribasDev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
