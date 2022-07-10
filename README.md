@@ -29,8 +29,10 @@ function dev(name, age, work) {
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+<!--
 ![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
+-->
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
 
 ### Ferramentas
